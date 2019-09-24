@@ -1,0 +1,46 @@
+URxvt.perl-ext-common: dafault,clipboard,resize-font
+
+URxvt.clipboard.autocopy: true
+URxvt.keysim.M-c: perl:clipboard:copy
+URxvt.keysim.M-v: perl:clipboard:paste
+URxvt.resize-font.smaller: C-j
+URxvt.resize-font.bigger: C-k
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+URxvt.font:xft:Monospace:pixelsize=13
+URxvt.boldfont:xft:Monospace-Bold:pixelsize:13
+
+URxvt*scrollBar: false
+
+URxvt.scrollstyle: plain
+
+URxvt.geometry:		72x18
+URxvt*letterSpace:	0
+URxvt.lineSpace:	0
+URxvt*internalBorder:	35
+UExvt*externalBorder: 	0
+URxvt*depth: 		0
+URxvt*saveLine: 	2000
+URxvt*termName:		rxvt-256color
+URxvt*iso14755: 	false
+
+*background: 	#181818
+*foreground:	#dcdcdc
+*cursorColor:	#dcdcdc
+*color0:	#3f3f3f
+*color1: 	#705050
+*color2: 	#60b48a
+*color3: 	#dfaf8f
+*color4: 	#9ab8d7
+*color5: 	#dc8cc3
+*color6: 	#8cd0d3
+*color7: 	#dcdcdc
+*color8: 	#709080
+*color9: 	#dca3a3
+*color10: 	#60b48a
+*color11: 	#f0dfaf
+*color12: 	#94bff3
+*color13: 	#ec93d3
+*color14: 	#93e0e3
+*color15: 	#ffffff
